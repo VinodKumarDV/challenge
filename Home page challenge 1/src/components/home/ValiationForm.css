@@ -1,0 +1,59 @@
+.main{
+    text-align: center;
+    justify-content: center;
+    width: max-content;
+}
+
+
+.email{
+    border-left: hidden;
+    border-right: hidden;
+    border-top: hidden;
+    width: 380px;
+    height: 25px;
+    border-color: rgb(177, 174, 174);
+}
+
+::placeholder{
+    color: #20B716;
+    opacity: 1;
+}
+
+.password{
+    border-left: hidden;
+    border-right: hidden;
+    border-top: hidden;
+    width: 385px;
+    height: 25px;
+    border-color: rgb(177, 174, 174);
+}
+
+.submit{
+    border: hidden;
+    padding: 5px;
+    width: 385px;
+    height: 49px;
+    background: #20B716 0% 0% no-repeat padding-box;
+    border-radius: 40px;
+    opacity: 1;
+    color: white;
+    font-size: 19px;
+    margin-top: 24px;
+
+}
+
+.row{
+    flex-direction: row;
+    padding: 10px;
+    font-size: 14px;
+}
+
+.new{
+    margin-left: 140px;
+    color: red;
+}
+
+.or{
+    font-size: 15;
+}
+
