@@ -9,8 +9,8 @@
     border-left: hidden;
     border-right: hidden;
     border-top: hidden;
-    width: 380px;
-    height: 25px;
+    width: 24rem;
+    height: 1.5rem;
     border-color: rgb(177, 174, 174);
 }
 
@@ -23,16 +23,16 @@
     border-left: hidden;
     border-right: hidden;
     border-top: hidden;
-    width: 385px;
-    height: 25px;
+    width: 24rem;
+    height: 1.5rem;
     border-color: rgb(177, 174, 174);
 }
 
 .submit{
     border: hidden;
     padding: 5px;
-    width: 385px;
-    height: 49px;
+    width: 24rem;
+    height: 3rem;
     background: #20B716 0% 0% no-repeat padding-box;
     border-radius: 40px;
     opacity: 1;

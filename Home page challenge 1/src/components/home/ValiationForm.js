@@ -53,7 +53,7 @@ export default class ValiationForm extends React.Component {
     render() {
         return (
         <form onSubmit={this.handleSubmit}>
-            <div className="main">
+            <div className="vmain">
                 <div>
                     <input
                         className="email"
